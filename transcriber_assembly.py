@@ -11,7 +11,7 @@ from urllib.parse import urlencode
 from datetime import datetime
 
 # AssemblyAI config
-API_KEY = "86bd973139e04aa185a47dc8e5681737"
+API_KEY = "********************"
 ASSEMBLY_PARAMS = {
     "sample_rate": 16000,
     "format_turns": True,
